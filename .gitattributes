@@ -7,3 +7,5 @@
 
 # Tell Github that tsp files should be highlighted as Lua
 *.tsp linguist-language=Lua
+
+.github/workflows/*.lock.yml linguist-generated=true merge=ours
